@@ -6,7 +6,7 @@
         <h1>咔酷UI</h1>
         <h2>一个厉害的UI框架</h2>
         <p class="actions">
-          <a href="https://github.com/xinglu2/kakuUI">GitHub</a>
+          <a href="https://github.com/xinglu2/kaku-ui-1">GitHub</a>
           <router-link to="/doc">开始</router-link>
         </p>
       </div>
